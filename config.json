@@ -1,0 +1,8 @@
+{
+  "excel_path": "/Users/marcelamelgar/Downloads/Prueba Técnica - MDS/ReportDataALL_20250404 (1).xlsx",
+  "real_sheet": "Real",
+  "pred_sheet": "Predicted",
+  "outdir": "/Users/marcelamelgar/Downloads/Prueba Técnica - MDS/salida",
+  "weeks": 4,
+  "tolerance": 1
+}

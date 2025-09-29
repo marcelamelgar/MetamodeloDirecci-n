@@ -1,0 +1,38 @@
+{
+  "excel_path": "/Users/marcelamelgar/Downloads/Prueba T\u00e9cnica - MDS/ReportDataALL_20250404 (1).xlsx",
+  "real_sheet": "Real",
+  "pred_sheet": "Predicted",
+  "weeks": 4,
+  "lo_days": 27,
+  "hi_days": 29,
+  "date_cut": "2024-12-05",
+  "n_train": 36,
+  "n_test": 15,
+  "metrics": {
+    "accuracy": 0.7333333333333333,
+    "precision": 0.6666666666666666,
+    "recall": 0.4,
+    "f1": 0.5,
+    "roc_auc": 0.8600000000000001,
+    "r2_consensus": -0.7551269599312742,
+    "best_r2_model": "pred_HFWV8N",
+    "best_r2_value": -2.107031281539152
+  },
+  "baselines": {
+    "majority_class": 0.7254901960784313,
+    "best_single_model_acc": 0.8235294117647058,
+    "best_single_model_name": "pred_IPBG4J"
+  },
+  "threshold": {
+    "best_threshold": 0.39999999999999997,
+    "best_f1": 0.8
+  },
+  "r2": {
+    "r2_consensus_mean": -0.7551269599312742,
+    "r2_pred_AA6KBD": -2.459168589331485,
+    "r2_pred_HFWV8N": -2.107031281539152,
+    "r2_pred_IPBG4J": -2.5378745074449833,
+    "r2_pred_LFHXNV": -4.7879362698895935,
+    "r2_pred_OBONV1": -2.411667374089776
+  }
+}

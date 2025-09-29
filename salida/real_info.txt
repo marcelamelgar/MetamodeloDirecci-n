@@ -1,0 +1,14 @@
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 66 entries, 0 to 65
+Data columns (total 7 columns):
+ #   Column        Non-Null Count  Dtype         
+---  ------        --------------  -----         
+ 0   id_commodity  66 non-null     int64         
+ 1   type          66 non-null     object        
+ 2   incoterm      66 non-null     object        
+ 3   origin        66 non-null     object        
+ 4   publication   66 non-null     object        
+ 5   date          66 non-null     datetime64[ns]
+ 6   value         66 non-null     float64       
+dtypes: datetime64[ns](1), float64(1), int64(1), object(4)
+memory usage: 3.7+ KB
